@@ -47,7 +47,9 @@ Le concessionnaire publie déjà ses véhicules sur Instagram : plutôt que de l
 ### Mobile
 
 <p align="center">
-  <img src="images/mobile-1.png" alt="Hakouti Motors Djerba — capture mobile 1" width="40%">
+  <img src="images/mobile-1.png" alt="Hakouti Motors Djerba — capture mobile 1" width="31%">
+  <img src="images/mobile-2.png" alt="Hakouti Motors Djerba — capture mobile 2" width="31%">
+  <img src="images/mobile-3.png" alt="Hakouti Motors Djerba — capture mobile 3" width="31%">
 </p>
 
 ## Fiche
